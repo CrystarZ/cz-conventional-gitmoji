@@ -1,0 +1,21 @@
+{
+  "name": "cz-conventional-gitmoji",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commitizen": "^4.0.3",
+    "conventional-commit-types": "^3.0.0",
+    "gitmojis": "^3.14.0",
+    "inquirer-autocomplete-prompt": "^2.0.0",
+    "lodash.map": "^4.5.1",
+    "longest": "^2.0.1",
+    "chalk": "^2.4.1"
+  },
+  "description": ""
+}
