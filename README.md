@@ -2,6 +2,8 @@
 
 > Conventional commits with gitmojis
 
+![select gitmoji](./assets/select%20gitmoji.png)
+
 ## Install
 
 ```bash
